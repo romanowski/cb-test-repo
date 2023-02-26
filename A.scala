@@ -2,4 +2,6 @@
 
 class A(b: Int, c: Int)
 
-object A
+object A{
+  def code: Int = 3
+}
