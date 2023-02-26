@@ -1,3 +1,3 @@
 //> using scala 3
 
-class A
+class A(b: Int)
